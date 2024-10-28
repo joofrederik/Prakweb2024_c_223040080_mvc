@@ -1,7 +1,7 @@
 <?php
 class About
 {
-    public function index($nama = 'Bhadrika', $pekerjaan = 'Mahasiswa')
+    public function index($nama = 'George', $pekerjaan = 'Mahasiswa')
     {
         echo "Halo, nama saya $nama. Saya adalah $pekerjaan.";
     }
